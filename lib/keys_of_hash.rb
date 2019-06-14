@@ -2,7 +2,7 @@
   class Hash
 def keys_of(*argument)
     # code goes here	l
-    istOfKeys=[]
+    listOfKeys=[]
 
  argument.each do |arg|
     map do |key,value|
