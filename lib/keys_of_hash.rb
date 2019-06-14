@@ -1,4 +1,4 @@
-class Hash
+
   class Hash
 def keys_of(*argument)
     # code goes here	l
@@ -13,4 +13,4 @@ def keys_of(*argument)
     end
 listOfKeys
   end
-end 	
+end
